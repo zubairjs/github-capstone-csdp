@@ -1,2 +1,3 @@
-# github-capstone-csdp
-A demonstration of GitHub workflow 
+# GitHub Capstone CSDP
+
+This project is part of an assignment intended for learning GitHub workflow.
